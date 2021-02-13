@@ -1,2 +1,2 @@
 The URL to view it with Github Pages is:
-[Flex News Weekly](https://fncordoba.github.io/typeSpeedText/.)
+[Typing speed test](https://fncordoba.github.io/typeSpeedText/.)
